@@ -1,0 +1,7 @@
+Description,Stock Code,Title,Pounds,Pences,Quantity
+High-quality running shorts,﻿RUN1234567,Run-Tech Running shorts,10,0,10
+Super lightweight hi-vis jacket for the extreme cyclist,CYC1111111,Cycle4ever Cycling jacket,50,0,20
+Super Hi-tech goggles for the professional and extreme environment swimmer,SWM2222222,4Oceans Goggles,25,15,8
+General purpose latex swimhat suitable for beginner and intermediate swimmers,SWM-123456-MSM,LakeTech Swimhat                                            ,10,99,9
+Great trainers for running cross country,RUN-234567-MSM,RunEverywhere                                               ,88,50,50
+Good quality swimming shorts for recreaction swimming and holidays,CYC-345678-MSM,Swimming shorts                                             ,12,99,20

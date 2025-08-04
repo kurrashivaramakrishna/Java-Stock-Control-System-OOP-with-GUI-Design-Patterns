@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="oop.ica.e2.SportsShopGUITest" time="22.441" tests="3" errors="0" skipped="0" failures="0">
+  <properties>
+    <property name="java.specification.version" value="21"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="sun.awt.enableExtraMouseButtons" value="true"/>
+    <property name="java.class.path" value="D:\J7 prime\ShivaKrishna\ShivaKrishna\ShivaKrishna\ShivaKrishna\Shivakrishna\ASCSystem\target\test-classes;D:\J7 prime\ShivaKrishna\ShivaKrishna\ShivaKrishna\ShivaKrishna\Shivakrishna\ASCSystem\target\classes;C:\Users\Shiva\.m2\repository\com\opencsv\opencsv\5.7.1\opencsv-5.7.1.jar;C:\Users\Shiva\.m2\repository\org\apache\commons\commons-lang3\3.12.0\commons-lang3-3.12.0.jar;C:\Users\Shiva\.m2\repository\org\apache\commons\commons-text\1.10.0\commons-text-1.10.0.jar;C:\Users\Shiva\.m2\repository\commons-beanutils\commons-beanutils\1.9.4\commons-beanutils-1.9.4.jar;C:\Users\Shiva\.m2\repository\commons-logging\commons-logging\1.2\commons-logging-1.2.jar;C:\Users\Shiva\.m2\repository\commons-collections\commons-collections\3.2.2\commons-collections-3.2.2.jar;C:\Users\Shiva\.m2\repository\org\apache\commons\commons-collections4\4.4\commons-collections4-4.4.jar;C:\Users\Shiva\.m2\repository\org\junit\jupiter\junit-jupiter-api\5.6.0\junit-jupiter-api-5.6.0.jar;C:\Users\Shiva\.m2\repository\org\apiguardian\apiguardian-api\1.1.0\apiguardian-api-1.1.0.jar;C:\Users\Shiva\.m2\repository\org\opentest4j\opentest4j\1.2.0\opentest4j-1.2.0.jar;C:\Users\Shiva\.m2\repository\org\junit\platform\junit-platform-commons\1.6.0\junit-platform-commons-1.6.0.jar;C:\Users\Shiva\.m2\repository\org\junit\jupiter\junit-jupiter-params\5.6.0\junit-jupiter-params-5.6.0.jar;C:\Users\Shiva\.m2\repository\org\junit\jupiter\junit-jupiter-engine\5.6.0\junit-jupiter-engine-5.6.0.jar;C:\Users\Shiva\.m2\repository\org\junit\platform\junit-platform-engine\1.6.0\junit-platform-engine-1.6.0.jar;"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="user.variant" value=""/>
+    <property name="java.vendor.url" value="https://java.oracle.com/"/>
+    <property name="user.timezone" value="Asia/Calcutta"/>
+    <property name="os.name" value="Windows 11"/>
+    <property name="java.vm.specification.version" value="21"/>
+    <property name="user.country" value="US"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk-21\bin"/>
+    <property name="sun.java.command" value="C:\Users\Shiva\AppData\Local\Temp\surefire6841068280418979257\surefirebooter-20240109155448220_3.jar C:\Users\Shiva\AppData\Local\Temp\surefire6841068280418979257 2024-01-09T15-54-48_004-jvmRun1 surefire-20240109155448220_1tmp surefire_0-20240109155448220_2tmp"/>
+    <property name="jdk.debug" value="release"/>
+    <property name="test" value="oop.ica.e2.SportsShopGUITest"/>
+    <property name="surefire.test.class.path" value="D:\J7 prime\ShivaKrishna\ShivaKrishna\ShivaKrishna\ShivaKrishna\Shivakrishna\ASCSystem\target\test-classes;D:\J7 prime\ShivaKrishna\ShivaKrishna\ShivaKrishna\ShivaKrishna\Shivakrishna\ASCSystem\target\classes;C:\Users\Shiva\.m2\repository\com\opencsv\opencsv\5.7.1\opencsv-5.7.1.jar;C:\Users\Shiva\.m2\repository\org\apache\commons\commons-lang3\3.12.0\commons-lang3-3.12.0.jar;C:\Users\Shiva\.m2\repository\org\apache\commons\commons-text\1.10.0\commons-text-1.10.0.jar;C:\Users\Shiva\.m2\repository\commons-beanutils\commons-beanutils\1.9.4\commons-beanutils-1.9.4.jar;C:\Users\Shiva\.m2\repository\commons-logging\commons-logging\1.2\commons-logging-1.2.jar;C:\Users\Shiva\.m2\repository\commons-collections\commons-collections\3.2.2\commons-collections-3.2.2.jar;C:\Users\Shiva\.m2\repository\org\apache\commons\commons-collections4\4.4\commons-collections4-4.4.jar;C:\Users\Shiva\.m2\repository\org\junit\jupiter\junit-jupiter-api\5.6.0\junit-jupiter-api-5.6.0.jar;C:\Users\Shiva\.m2\repository\org\apiguardian\apiguardian-api\1.1.0\apiguardian-api-1.1.0.jar;C:\Users\Shiva\.m2\repository\org\opentest4j\opentest4j\1.2.0\opentest4j-1.2.0.jar;C:\Users\Shiva\.m2\repository\org\junit\platform\junit-platform-commons\1.6.0\junit-platform-commons-1.6.0.jar;C:\Users\Shiva\.m2\repository\org\junit\jupiter\junit-jupiter-params\5.6.0\junit-jupiter-params-5.6.0.jar;C:\Users\Shiva\.m2\repository\org\junit\jupiter\junit-jupiter-engine\5.6.0\junit-jupiter-engine-5.6.0.jar;C:\Users\Shiva\.m2\repository\org\junit\platform\junit-platform-engine\1.6.0\junit-platform-engine-1.6.0.jar;"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="user.home" value="C:\Users\Shiva"/>
+    <property name="user.language" value="en"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.version.date" value="2023-10-17"/>
+    <property name="java.home" value="C:\Program Files\Java\jdk-21"/>
+    <property name="file.separator" value="\"/>
+    <property name="basedir" value="D:\J7 prime\ShivaKrishna\ShivaKrishna\ShivaKrishna\ShivaKrishna\Shivakrishna\ASCSystem"/>
+    <property name="java.vm.compressedOopsMode" value="32-bit"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="surefire.real.class.path" value="C:\Users\Shiva\AppData\Local\Temp\surefire6841068280418979257\surefirebooter-20240109155448220_3.jar"/>
+    <property name="user.script" value=""/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="java.runtime.version" value="21.0.1+12-LTS-29"/>
+    <property name="user.name" value="Shiva"/>
+    <property name="stdout.encoding" value="Cp1252"/>
+    <property name="path.separator" value=";"/>
+    <property name="os.version" value="10.0"/>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="file.encoding" value="UTF-8"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="maven.ext.class.path" value="C:\Program Files\NetBeans-20\netbeans\java\maven-nblib\netbeans-eventspy.jar"/>
+    <property name="localRepository" value="C:\Users\Shiva\.m2\repository"/>
+    <property name="java.vendor.url.bug" value="https://bugreport.java.com/bugreport/"/>
+    <property name="java.io.tmpdir" value="C:\Users\Shiva\AppData\Local\Temp\"/>
+    <property name="java.version" value="21.0.1"/>
+    <property name="user.dir" value="D:\J7 prime\ShivaKrishna\ShivaKrishna\ShivaKrishna\ShivaKrishna\Shivakrishna\ASCSystem"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="native.encoding" value="Cp1252"/>
+    <property name="java.library.path" value="C:\Program Files\Java\jdk-21\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files\Eclipse Adoptium\jdk-21.0.1.12-hotspot\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\xampp\xampp\mysql\bin;C:\Program Files\nodejs\;C:\Program Files\MongoDB\Server\6.0\bin;C:\mongosh\mongosh-1.8.1-win32-x64\bin;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\Shiva\AppData\Local\Microsoft\WindowsApps;C:\Users\Shiva\AppData\Roaming\npm;C:\Program Files\MongoDB\Server\6.0\bin;C:\mongosh\mongosh-1.8.1-win32-x64\bin;;C:\Users\Shiva\AppData\Local\Programs\Microsoft VS Code\bin;."/>
+    <property name="java.vm.info" value="mixed mode, sharing"/>
+    <property name="stderr.encoding" value="Cp1252"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="java.vm.version" value="21.0.1+12-LTS-29"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="java.class.version" value="65.0"/>
+  </properties>
+  <testcase name="testLoad" classname="oop.ica.e2.SportsShopGUITest" time="0.556">
+    <system-out><![CDATA[CVS Data is Load Sucessfully
+]]></system-out>
+  </testcase>
+  <testcase name="testBuyItem" classname="oop.ica.e2.SportsShopGUITest" time="14.13">
+    <system-out><![CDATA[buyItem
+_______________________________________________________
+Run-TechRunningshorts - High-qualityrunningshorts - UNIT PRICE: £10.0 - QTY: 10
+Cycle4everCyclingjacket - Superlightweighthi-visjacketfortheextremecyclist - UNIT PRICE: £50.0 - QTY: 19
+4OceansGoggles - SuperHi-techgogglesfortheprofessionalandextremeenvironmentswimmer - UNIT PRICE: £25.15 - QTY: 8
+LakeTechSwimhat - Generalpurposelatexswimhatsuitableforbeginnerandintermediateswimmers - UNIT PRICE: £10.99 - QTY: 10
+RunEverywhere - Greattrainersforrunningcrosscountry - UNIT PRICE: £88.5 - QTY: 50
+Swimmingshorts - Goodqualityswimmingshortsforrecreactionswimmingandholidays - UNIT PRICE: £12.99 - QTY: 20
+]]></system-out>
+  </testcase>
+  <testcase name="testaddItem" classname="oop.ica.e2.SportsShopGUITest" time="7.71">
+    <system-out><![CDATA[addStock
+__________________________________________________________
+Run-TechRunningshorts - High-qualityrunningshorts - UNIT PRICE: £10.0 - QTY: 10
+Cycle4everCyclingjacket - Superlightweighthi-visjacketfortheextremecyclist - UNIT PRICE: £50.0 - QTY: 21
+4OceansGoggles - SuperHi-techgogglesfortheprofessionalandextremeenvironmentswimmer - UNIT PRICE: £25.15 - QTY: 8
+LakeTechSwimhat - Generalpurposelatexswimhatsuitableforbeginnerandintermediateswimmers - UNIT PRICE: £10.99 - QTY: 10
+RunEverywhere - Greattrainersforrunningcrosscountry - UNIT PRICE: £88.5 - QTY: 50
+Swimmingshorts - Goodqualityswimmingshortsforrecreactionswimmingandholidays - UNIT PRICE: £12.99 - QTY: 20
+]]></system-out>
+  </testcase>
+</testsuite>
