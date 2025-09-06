@@ -1,4 +1,3 @@
-
 ###  **Stock Control System (Java + Swing)**
 ```markdown
 # Java Stock Control System
@@ -20,6 +19,3 @@ Implements **OOP principles** and design patterns (Observer, Adapter) for effici
 ## 📦 Setup
 1. Import project into NetBeans IDE  
 2. Build & Run  
-
-## 📸 Demo
-![Screenshot](link-to-screenshot)
