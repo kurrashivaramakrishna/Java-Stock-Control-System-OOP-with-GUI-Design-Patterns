@@ -1,2 +1,25 @@
-# Java-Stock-Control-System-OOP-with-GUI-Design-Patterns
-A fully functional inventory management system developed using Java, NetBeans, and Swing GUI. It supports managing and tracking inventory for ASC &amp; MSM, I designed the system using OOP principles such as encapsulation, inheritance, and polymorphism.The GUI was designed to be user-friendly and responsive, improving task completion time by 50%.
+
+###  **Stock Control System (Java + Swing)**
+```markdown
+# Java Stock Control System
+
+A desktop inventory management application built with **Java Swing**.  
+Implements **OOP principles** and design patterns (Observer, Adapter) for efficient stock management.
+
+## 🚀 Features
+- 📦 Add, update, delete products
+- 📊 Stock tracking with notifications
+- 🖥️ Java Swing GUI
+- 🔗 Observer & Adapter Design Patterns
+
+## 🛠️ Tech Stack
+- **Language**: Java
+- **IDE**: NetBeans
+- **Design**: OOP + Design Patterns
+
+## 📦 Setup
+1. Import project into NetBeans IDE  
+2. Build & Run  
+
+## 📸 Demo
+![Screenshot](link-to-screenshot)
